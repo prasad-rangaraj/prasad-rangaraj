@@ -90,7 +90,7 @@ Motto:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,nginx"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
 
 </p>
 
@@ -148,51 +148,6 @@ React • Fastify • PostgreSQL
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
@@ -233,21 +188,15 @@ while(alive){
 
 <p align="center">
 
-<a href="https://linkedin.com/in/prasad-r">
+<a href="https://www.linkedin.com/in/prasad-r-362594315/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:prasad.rangaraj@gmail.com">
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://portfolio.com">
-
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel"/>
 
 </a>
 
